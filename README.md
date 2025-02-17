@@ -23,7 +23,7 @@ I defaulted to use in Docker, then comment/decomment ip/localhost based on usage
 Edit “VE_Italian_Luca_22kHz” with the desired entry, in any case if it does not find the entry use the system default
 
 ### Tips
-To use Videolingo completely offline, you can install Ollama with the model “qwen2.5-coder:7b”
+To use Videolingo completely offline, you can install [Ollama](https://ollama.com/download/windows)  with the model “qwen2.5-coder:7b”
 
 Once installed in template start ollama with
 
