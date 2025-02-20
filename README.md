@@ -10,7 +10,7 @@ Allows you to use the built-in Windows TTS in [VideoLingo](https://github.com/Hu
 
 ### Usage:
 
-  Run in windows
+  Run in windows cmd
 
     python server-tts-win.py 
 
